@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".food">
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginLeft="56dp"
+        android:layout_marginTop="60dp"
+        android:drawableTop="@drawable/ic_iconfinder_full_glass_4299188"
+        android:text="@string/drink"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginRight="48dp"
+        android:drawableTop="@drawable/ic_iconfinder_snacks_2_753101"
+        android:text="@string/snack"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginLeft="56dp"
+        android:layout_marginTop="320dp"
+        android:drawableTop="@drawable/ic_iconfinder_soup_2638306"
+        android:text="@string/cerial"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="320dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginRight="48dp"
+        android:drawableTop="@drawable/ic_iconfinder_icon_extra_01_6472615"
+        android:text="@string/pizza"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginLeft="56dp"
+        android:layout_marginTop="460dp"
+        android:drawableTop="@drawable/ic_iconfinder_restaurant_restaurant_food_meat_chicken_6613417"
+        android:text="@string/chicken"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="460dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginRight="56dp"
+        android:drawableTop="@drawable/ic_iconfinder_hamburger_5627005"
+        android:text="@string/burger"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginLeft="56dp"
+        android:layout_marginTop="188dp"
+        android:drawableTop="@drawable/ic_cookies_couple"
+        android:text="@string/cookies"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button22"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginRight="48dp"
+        android:drawableTop="@drawable/ic_potato_chips"
+        android:text="@string/chips"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

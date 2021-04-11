@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Feelings">
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="60dp"
+        android:drawableTop="@drawable/ic_happy"
+        android:text="@string/happy"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginRight="64dp"
+        android:drawableTop="@drawable/ic_sad"
+        android:text="@string/sad"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button18"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="208dp"
+        android:drawableTop="@drawable/ic_anger"
+        android:text="@string/angry"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="208dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginRight="64dp"
+        android:drawableTop="@drawable/ic_tired"
+        android:text="Tired"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button20"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="344dp"
+        android:drawableTop="@drawable/ic_joyful"
+        android:text="@string/exited"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="136dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="344dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginRight="64dp"
+        android:drawableTop="@drawable/ic_sleepy_face_square_shape"
+        android:text="@string/sleepy"
+        app:backgroundTint="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
