@@ -36,10 +36,7 @@ Make sure you have installed the following prerequisites on your development mea
 *Android phone 7.0 and up.
 
 
-## Configuration Instructions
 
-
----------
 
 ## Installation Instructions
 
