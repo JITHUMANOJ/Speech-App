@@ -14,6 +14,57 @@ The things you'll need in order to use the app and how to install them
 ```
 Give examples
 ```
+## Configuration Instructions
+
+
+---------
+
+## Installation Instructions
+
+
+------------
+
+## Operating Instructions
+
+
+
+---------------
+## Manifest
+
+Includes all files
+
+
+
+## Contact Information
+
+
+
+
+--------------
+
+## Bug List
+
+
+
+
+
+----------------
+
+## Troubleshooting Tips
+
+
+
+
+--------------------
+
+## Credits and Acknowledgement
+
+
+
+
+
+
+-----------
 
 ### How to use
 
