@@ -1,16 +1,27 @@
-# Speech-App
+# Speech - Android App
 
 
+<img src="/readme/wallabag logo.png" align="left"
+width="200" hspace="10" vspace="10">
 
-## Overview
+
+Speech app is a picture based AAC (Augmentative and alternative communication) application that empowers children and adults with complex communication needs to express themselves.
+Unlike other services, speech app is free and open source.
+
+
 
 This project is a picture based AAC (Augmentative and alternative communication) application that empowers children and adults with complex communication needs to express themselves. The app contains a set of pictures and symbols which can be used to represent words with corresponding spoken phrases.
+
+
+
+
+
 
 ## Prerequisites
 
 Make sure you have installe the following prerequisites on your development meachine 
 
-Git - [Download & Install Git](/https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
+Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
 
 
 ## Configuration Instructions
@@ -28,6 +39,13 @@ Git - [Download & Install Git](/https://git-scm.com/downloads). OSX and Linux ma
 
 
 ---------------
+
+## Generating signed APK
+From Android Studio:
+
+1.Build menu /n
+2.Generate Signed APK...
+3.Fill in the keystore information (you only need to do this once manually and then let Android Studio remember it)
 ## Manifest
 
 Includes all files
