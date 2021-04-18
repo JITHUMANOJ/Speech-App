@@ -22,9 +22,12 @@ The speech app allows the users to promote communication skills and express thei
 
 ## Prerequisites
 
-Make sure you have installe the following prerequisites on your development meachine 
+Make sure you have installed the following prerequisites on your development meachine:
 
-Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
+-Android Studio.
+-Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines     typically have this already installed.
+-Android Build tools v28+.
+-Android phone 7.0 and up.
 
 
 ## Configuration Instructions
