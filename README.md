@@ -4,7 +4,7 @@
 
 ## Overview
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+This project is a picture based AAC (Augmentative and alternative communication) app that empowers children and adults with complex communication needs to express themselves. The app contains a set of pictures and symbols which can be used to represent words with corresponding spoken phrases.
 
 ## Prerequisites
 
