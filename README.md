@@ -8,13 +8,11 @@ This project is a picture based AAC (Augmentative and alternative communication)
 
 ## Prerequisites
 
-Make sure you have installe the following prerequisites on your development meachine Git - [Download & Install Git](/https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
+Make sure you have installe the following prerequisites on your development meachine 
 
-The things you'll need in order to use the app and how to install them
+Git - [Download & Install Git](/https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
 
-```
-Give examples
-```
+
 ## Configuration Instructions
 
 
