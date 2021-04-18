@@ -14,7 +14,10 @@ Unlike other services, speech app is free and open source.
 
 
 
+
+
 ## Overview
+The speech app allows the users to promote communication skills and express their thoughts. The app is developed based on picture exchange communication system where symbols and images are used to represent various food, activities and emotions. The app also contains an emergency button which can be used in case of any emergencies. Communication is not just limited to conveying need but also expressing emotions and thoughts. By using the speech app, the user could easily share their feeling
 
 
 ## Prerequisites
