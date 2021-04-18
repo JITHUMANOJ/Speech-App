@@ -27,18 +27,26 @@ The speech app allows the users to promote communication skills and express thei
 
 Make sure you have installed the following prerequisites on your development meachine:
 
-*Android Studio. 
+* Android Studio. 
 
-*Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
+* Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines     typically have this already installed.
 
-*Android Build tools v28+.
+* Android Build tools v28+.
 
-*Android phone 7.0 and up.
+* Android phone 7.0 and up.
 
 
 
 
 ## Installation Instructions
+
+* Make sure you've installed the Android 7.1.1 SDK and upgraded to the latest version of Android Studio
+
+* Make sure you've updated all support repository and Google Play Services repository packages in the Android SDK manager
+
+* See the configuration and clone the environment into android studio using the following link:
+
+
 
 
 ------------
