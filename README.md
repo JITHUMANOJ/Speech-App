@@ -42,11 +42,16 @@ Make sure you have installed the following prerequisites on your development mea
 
 * Make sure you've installed the Android 7.1.1 SDK and upgraded to the latest version of Android Studio
 
-* Make sure you've updated all support repository and Google Play Services repository packages in the Android SDK manager
+* Make sure you've updated all support repository and in the Android SDK manager
 
 * See the configuration and clone the environment into android studio using the following link:
 
+   
 
+```
+  https://github.com/JITHUMANOJ/Speech-App.git
+
+```
 
 
 ------------
