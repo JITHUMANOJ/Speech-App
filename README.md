@@ -63,6 +63,7 @@ Permission for making phone calls are included by defaul as we need to make phon
 ```
 
 
+
 ## Manifest
 
 ## Generating signed APK
@@ -74,13 +75,7 @@ From Android Studio:
 
 
 
-## Bug List
 
-
-
-
-
-----------------
 
 ## Troubleshooting Tips
 
@@ -93,8 +88,8 @@ From Android Studio:
 
 ## Built with
 
-* [Swift 4.2](https://developer.apple.com/swift/) - The programming language used
-* VIPER - Design Pattern
+* Kotlin - The programming language used
+* Android Studio - Developing environment used
 * No external libraries were used in this project
 
 ## Authors
