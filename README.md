@@ -89,6 +89,13 @@ Permission for making phone calls are included by defaul as we need to make phon
 * [ABD Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
 * [Android Material Design Icon Generator](https://plugins.jetbrains.com/plugin/7647-android-material-design-icon-generator/)
 
+
+## Screenshot
+
+<img src="https://user-images.githubusercontent.com/59398434/115180027-a4811080-a0a2-11eb-936b-67fb02fc8d41.gif" 
+width="150" hspace="10" vspace="10"/>
+
+
 ## Generating signed APK
 From Android Studio:
 
