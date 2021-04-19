@@ -111,7 +111,6 @@ From Android Studio:
 
 * Kotlin - The programming language used
 * Android Studio - Developing environment used
-* No external libraries were used in this project
 
 ## Authors
 
