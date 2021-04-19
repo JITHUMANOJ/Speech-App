@@ -84,6 +84,8 @@ Permission for making phone calls are included by defaul as we need to make phon
 ## Plugins
 
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
+* [ABD Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
+* [Android Material Design Icon Generator](https://plugins.jetbrains.com/plugin/7647-android-material-design-icon-generator/)
 
 ## Generating signed APK
 From Android Studio:
