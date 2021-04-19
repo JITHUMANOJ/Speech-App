@@ -110,6 +110,11 @@ Feel free to file a new issue with a respective title and description on the [Sp
 ## Authors
 
 
+## Contact
+
+Jithu Manoj- jithumanoj77@gmail.com
+
+[Github profile](https://github.com/JITHUMANOJ)
 
 ## Acknowledgments
 
