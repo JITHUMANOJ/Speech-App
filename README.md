@@ -9,11 +9,11 @@ width="200" hspace="10" vspace="10">
 
 
 
-Speech app is a picture based AAC (Augmentative and alternative communication) application that empowers children and adults with complex communication needs to express themselves.
+<br> Speech app is a picture based AAC (Augmentative and alternative communication) application that empowers children and adults with complex communication needs to express           themselves.
 
 
-Unlike other services, speech app is free and open source.
-
+ Unlike other services, speech app is free and open source.
+</br>
 
 
 ## Overview
@@ -64,8 +64,6 @@ Permission for making phone calls are included by defaul as we need to make phon
 
 
 
-## Manifest
-
 ## Dependencies Used
 
 
@@ -106,8 +104,6 @@ Feel free to file a new issue with a respective title and description on the [Sp
 
 * Kotlin - The programming language used
 * Android Studio - Developing environment used
-
-## Authors
 
 
 ## Contact
