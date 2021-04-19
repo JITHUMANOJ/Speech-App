@@ -5,15 +5,19 @@
 
 
 <img src="https://user-images.githubusercontent.com/59398434/115166214-f4021500-a07f-11eb-8469-e44e85b4fb4b.jpeg" align="left"
-width="200" hspace="10" vspace="10">
+width="150" hspace="10" vspace="10">
 
 
 
-<br> Speech app is a picture based AAC (Augmentative and alternative communication) application that empowers children and adults with complex communication needs to express           themselves.
+ Speech app is a picture based AAC (Augmentative and alternative communication) application that empowers children and adults with complex communication needs to express           themselves.
 
 
  Unlike other services, speech app is free and open source.
-</br>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ 
 
 
 ## Overview
