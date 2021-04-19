@@ -96,14 +96,9 @@ From Android Studio:
 
 
 
+## Bugs
 
-
-## Troubleshooting Tips
-
-
-
-
---------------------
+Feel free to file a new issue with a respective title and description on the [Speech app](https://github.com/JITHUMANOJ/Speech-App/issues) repository if you face any kind of bugs in the application.
 
 
 
@@ -115,9 +110,6 @@ From Android Studio:
 ## Authors
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
