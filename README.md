@@ -8,15 +8,11 @@
 width="200" hspace="10" vspace="10">
 
 
+
 Speech app is a picture based AAC (Augmentative and alternative communication) application that empowers children and adults with complex communication needs to express themselves.
 
+
 Unlike other services, speech app is free and open source.
-
-
-
-
-
-
 
 
 
@@ -59,9 +55,14 @@ Make sure you have installed the following prerequisites on your development mea
 
 ## Operating Instructions
 
+Permission for making phone calls are included by defaul as we need to make phone call requests:
+
+```
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+
+```
 
 
----------------
 
 ## Generating signed APK
 From Android Studio:
