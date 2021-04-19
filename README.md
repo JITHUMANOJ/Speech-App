@@ -63,17 +63,14 @@ Permission for making phone calls are included by defaul as we need to make phon
 ```
 
 
+## Manifest
 
 ## Generating signed APK
 From Android Studio:
 
-1.Build menu /n
-2.Generate Signed APK...
-3.Fill in the keystore information (you only need to do this once manually and then let Android Studio remember it)
-## Manifest
-
-Includes all files
-
+* Build menu 
+* Generate Signed APK...
+* Fill in the keystore information (you only need to do this once manually and then let Android Studio remember it)
 
 
 ## Contact Information
