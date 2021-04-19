@@ -78,7 +78,12 @@ Permission for making phone calls are included by defaul as we need to make phon
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    
 ```
+
+## Plugins
+
+* [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
 
 ## Generating signed APK
 From Android Studio:
