@@ -93,7 +93,7 @@ Permission for making phone calls are included by defaul as we need to make phon
 ## Screenshot
 
 <img src="https://user-images.githubusercontent.com/59398434/115180027-a4811080-a0a2-11eb-936b-67fb02fc8d41.gif" 
-width="150" hspace="10" vspace="10"/>
+width="150" hspace="20" vspace="20"/>
 
 
 ## Generating signed APK
