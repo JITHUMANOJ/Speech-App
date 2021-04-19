@@ -73,12 +73,6 @@ From Android Studio:
 * Fill in the keystore information (you only need to do this once manually and then let Android Studio remember it)
 
 
-## Contact Information
-
-
-
-
---------------
 
 ## Bug List
 
@@ -95,20 +89,7 @@ From Android Studio:
 
 --------------------
 
-## Credits and Acknowledgement
 
-
-
-
-
-
------------
-
-### How to use
-
-A step by step guide on how to use the app's features
-
-End with a few screenshots
 
 ## Built with
 
@@ -118,9 +99,6 @@ End with a few screenshots
 
 ## Authors
 
-* **Luís Vieira** - [lsvra.com](https://lsvra.com)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
