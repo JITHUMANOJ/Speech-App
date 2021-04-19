@@ -125,6 +125,6 @@ Jithu Manoj- jithumanoj77@gmail.com
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Dr. Trevor M. Tomesh - Mentoring and guidance thoughout the project.
+
+[Flat Coin](https://www.flaticon.com/)- Provided required documents for app development.
